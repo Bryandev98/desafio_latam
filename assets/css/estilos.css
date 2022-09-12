@@ -11,10 +11,10 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* clases disponibles */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 220px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
